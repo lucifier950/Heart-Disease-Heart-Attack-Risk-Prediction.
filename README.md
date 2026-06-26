@@ -97,8 +97,8 @@ Exploratory and model-evaluation plots are saved in the [`plots/`](plots/) direc
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Aditya12D/fdaproject.git
-cd fdaproject
+https://github.com/lucifier950/Heart-Disease-Heart-Attack-Risk-Prediction..git
+cd Heart-Disease-Heart-Attack-Risk-Prediction.
 ```
 
 ### 2. Install dependencies
