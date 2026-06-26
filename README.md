@@ -150,7 +150,6 @@ fdaproject/
 
 **Advik Rajvansh**
 
-> _Update the link below with your own GitHub profile if different._
 [GitHub](https://github.com/lucifier950)
 
 ---
